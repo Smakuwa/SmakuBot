@@ -1,1 +1,2 @@
-web: python script.py
+web: python SmakuBot/SmakuBot.py
+      
