@@ -1,2 +1,2 @@
-web: python SmakuBot/SmakuBot.py
+web: python SmakuBot.py runserver 0.0.0.0:$PORT
       
