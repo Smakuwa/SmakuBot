@@ -1,2 +1,2 @@
-worker: python SmakuBot/SmakuBot.py
+web: python SmakuBot/SmakuBot.py
       
