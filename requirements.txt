@@ -1,3 +1,5 @@
-fbchat
-numpy
-bs4
+beautifulsoup4==4.6.3
+bs4==0.0.1
+fbchat==1.4.2
+numpy==1.15.4
+requests==2.21.0
