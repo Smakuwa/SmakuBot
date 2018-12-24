@@ -1,4 +1,4 @@
-.git
+
 fbchat
 numpy
 bs4
