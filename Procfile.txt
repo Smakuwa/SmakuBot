@@ -1,1 +1,1 @@
-web: python <smakubot.py>
+web: python smakubot.py
